@@ -8,7 +8,8 @@ Desenvolvedor com foco em TypeScript, JavaScript e Node.js, criando aplicações
 
 
 
-- [fyregrid.github.io/bio](https://fyregrid.github.io/bio/)      
+- [LinkedIn](https://www.linkedin.com/in/gribeirodev)
 
+  
 
 - topverbs@gmail.com
