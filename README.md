@@ -8,7 +8,7 @@ Desenvolvedor com foco em TypeScript, JavaScript e Node.js, criando aplicações
 
 
 
-- [LINKEDIN](https://www.linkedin.com/in/gribeirodev)
+- [LINKEDIN](https://www.linkedin.com/in/grdeveloper)
 
 
 
