@@ -2,17 +2,17 @@
 
 
 
-📘 EBOOK Web Freelancer Kit 
-➜ freelancerkit.pages.dev
+📘 EBOOK Web Freelancer Kit     
+➜ freelancerkit.pages.dev     
 
-🛠️ JS Boilerplate KIT + Documentação README/DEPLOY 
-➜ grwebstack.github.io/lab 
+🛠️ JS Boilerplate KIT + Documentação README/DEPLOY    
+➜ grwebstack.github.io/lab    
 
-💼 LinkedIn
-➜ linkedin.com/in/grdeveloper 
+💼 LinkedIn      
+➜ linkedin.com/in/grdeveloper     
 
-📧 eMail
-➜ topverbs@gmail.com  
+📧 eMail     
+➜ topverbs@gmail.com      
 
 
   
