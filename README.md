@@ -1,5 +1,5 @@
 # Guilherme Ribeiro 
-> JavaScript · Python ·Boilerplates · UI/UX · SPA/Router · APIs · Auth System · Deploy   
+> JavaScript · Python ·Boilerplates · UI/UX · SPA/Router · APIs · Auth System · TypeScript   
 
 
 📘 EBOOK Web Freelancer Kit     
