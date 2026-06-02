@@ -1,12 +1,9 @@
 # Guilherme Ribeiro 
-
+> JavaScript · Python ·Boilerplates · UI/UX · SPA/Router · APIs · Auth System · Deploy   
 
 
 📘 EBOOK Web Freelancer Kit     
-freelancerkit.pages.dev     
-
-🛠️ Roadmap + Boilerplate + Documentação README/DEPLOY    
-github.com/grwebstack/js-roadmap    
+freelancerkit.pages.dev        
 
 💼 LinkedIn      
 linkedin.com/in/grdeveloper     
