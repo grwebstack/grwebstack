@@ -5,6 +5,9 @@
 📘 EBOOK Web Freelancer Kit     
 freelancerkit.pages.dev        
 
+🛠️ Developer Boilerplate Kit            
+boilerplatekit.pages.dev     
+
 💼 LinkedIn      
 linkedin.com/in/gribeirodev            
 
