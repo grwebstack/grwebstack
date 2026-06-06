@@ -8,8 +8,7 @@ freelancerkit.pages.dev
 🛠️ Developer Boilerplate Kit            
 svault.pages.dev     
 
-💼 LinkedIn      
-linkedin.com/in/gribeirodev            
+         
 
     
 
