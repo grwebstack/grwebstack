@@ -2,17 +2,16 @@
 > JavaScript · Python · Boilerplates · UI/UX · SPA/Router · Auth/API System      
 
 
-📘 EBOOK Web Freelancer Kit     
+📘 EBOOK Developer Freelancer Kit     
 freelancerkit.pages.dev        
 
 🛠️ Developer Boilerplate Kit            
-boilerplatekit.pages.dev     
+svault.pages.dev     
 
 💼 LinkedIn      
 linkedin.com/in/gribeirodev            
 
-📧 eMail     
-topverbs@gmail.com      
+    
 
 ---
   
