@@ -1,4 +1,4 @@
-<img src="[./assets/goat.png](https://github.com/liberstack/liberstack/releases/download/vault/photo_pro.png)" width="80%" height="80%" style="border-radius:2%;" />
+<img src="https://github.com/liberstack/liberstack/releases/download/vault/photo_pro.png" width="80%" height="80%" style="border-radius:2%;" />
 
 
 # Guilherme Ribeiro 
