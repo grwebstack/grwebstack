@@ -1,4 +1,3 @@
-<img src="https://github.com/liberstack/liberstack/releases/download/vault/photo_pro.png" width="25%" height="25%" />
 
 
 # Guilherme Ribeiro 
